@@ -1,6 +1,7 @@
 # Stock-Trading-System
 ## A stock trading platform built with Python's tkinter and SQLite3, for GUI and relational database.
 
+Demo: https://drive.google.com/file/d/1MDg8PCx9ILkMzOPRMUWlsUPT5BHseI2j/view
 
 HOW TO RUN:
 - if you have python it should run on any machine/OS (Linux, Windows, Mac). 
